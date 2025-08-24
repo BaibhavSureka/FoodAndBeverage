@@ -4,7 +4,7 @@
 
 ## 🚀 Live Demo
 
-**Try the live app:** [Deploy to Streamlit Cloud for live demo]
+**Try the live app:** [https://foodandbeverage-cvlfguwbeh2yydqq8qxucz.streamlit.app/]
 
 ## Overview
 
